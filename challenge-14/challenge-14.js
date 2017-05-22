@@ -2,7 +2,7 @@
 /*
 Envolva todo o código desse desafio em uma IIFE.
 */
-
+ 
 /*
 Crie um array chamado numberObjects. Esse array deve ter 10 elementos. Cada
 elemento será um objeto no formato:
