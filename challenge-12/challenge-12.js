@@ -1,4 +1,4 @@
-(function(){
+	(function(){
 	/*
 	Envolva todo o conteúdo desse arquivo em uma IIFE.
 	*/
